@@ -1,0 +1,7 @@
+C:\Users\Tavares\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\Tavares\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tavares\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\Tavares\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.AssemblyInfo.cs
+C:\Users\Tavares\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\Tavares\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tavares\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
